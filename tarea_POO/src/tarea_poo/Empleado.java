@@ -7,7 +7,7 @@ package tarea_poo;
 
 /**
  *
- * @author JOAQUIN
+ * @author JOAQUINmena
  */
 public class Empleado {
     
